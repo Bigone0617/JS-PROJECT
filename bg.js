@@ -25,5 +25,5 @@ function init(){
     const randomNumber = genRandom();
     paintImage(randomNumber);
 }
-
+//수정
 init();
